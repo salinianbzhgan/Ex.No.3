@@ -1,7 +1,8 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE: 27/2/2026                                                                           
 ### REGISTER NUMBER : 212223220091
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+### Aim: 
+To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
 ### Explanation 
 Prompt engineering is the process of designing structured inputs (prompts) to obtain meaningful responses from AI systems. In this experiment, a real-world use case is selected, and different prompting techniques are applied to generate structured outputs.
@@ -46,9 +47,10 @@ Evaluation: Produces clear and direct responses for quick understanding.
  Definition: Requests structured output in table format for clarity.
  
 Example:
-    * Prompt: Provide a table showing actors, roles, and responsibilities in the food delivery process.
+    *  Prompt: Provide a table showing actors, roles, and responsibilities in the food delivery process.
     
 Output:
+
 <img width="858" height="310" alt="image" src="https://github.com/user-attachments/assets/7609cc1a-4320-433a-b92d-c74dd6a6916f" />
 
 Evaluation: Organizes information clearly and improves readability.
@@ -76,7 +78,7 @@ Examples:
 
 Evaluation: Generates specific answers and tests knowledge effectively.
 
-### Conclusion 
+## Conclusion 
 The experiment successfully implemented different prompt engineering techniques using the online food delivery app scenario. Each technique produced structured, clear, and context-specific AI outputs, demonstrating the effectiveness of prompt design.
 
 ## Result: 
